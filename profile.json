@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "login": "ggsabbir",
+  "seed": "#A11319",
+  "seedFromAvatar": true,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "projects",
+    "stack",
+    "wave",
+    "buttons",
+    "about",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "stats",
+    "streak",
+    "about"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Sabbir Hossain",
+    "subtitle": "Developer and Owner Behind the Snexon Ecosystem.",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Chandpur, Bangladesh"
+      },
+      {
+        "icon": "person",
+        "label": "he/him"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Core Stack",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node Js"
+          },
+          {
+            "icon": "brand:discorddotjs",
+            "label": "Discord.js"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:prisma",
+            "label": "Prisma"
+          },
+          {
+            "icon": "brand:shadcnui",
+            "label": "shadcn/ui"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "sniperboii",
+      "pterodactyl-eggs"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1123988102785011783"
+      },
+      {
+        "icon": "brand:facebook",
+        "url": "https://www.facebook.com/gg.sabbir"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/gg.sabbir_/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://www.sabbir.biz",
+        "style": "tonal"
+      },
+      {
+        "icon": "store",
+        "label": "Shop",
+        "url": "https://www.sabbir.shop",
+        "style": "filled"
+      }
+    ],
+    "card": true
+  }
+}
